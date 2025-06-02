@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1733815053 source:z:\but-1\c++\init2\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1733815053 source:z:\but-1\c++\init2\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736239996 source:z:\but-1\c++\init2\s102\src\main.cpp
+	<vector>
+	"Dictionnaire.h"
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Objet.h"
+	"Niveau.h"
+
+1736240648 source:z:\but-1\c++\init2\s102\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+	"Moteur.h"
+
+1733225431 source:c:\users\rstinus\downloads\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1733238376 source:c:\users\rstinus\downloads\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1733225431 source:c:\users\rstinus\downloads\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1733236994 source:c:\users\rstinus\downloads\s102\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+
+1734425008 source:z:\but-1\c++\init2\s102\src\maintest.cpp
+	<vector>
+	<iostream>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+
+1736239533 source:z:\but-1\c++\init2\s102\src\tuile.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Tuile.h"
+	<vector>
+
+1736237059 source:z:\but-1\c++\init2\s102\src\dictionnaire.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+
+1736239622 source:z:\but-1\c++\init2\s102\src\niveau.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Objet.h"
+	"Niveau.h"
+
+1736239533 source:z:\but-1\c++\init2\s102\src\objet.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Tuile.h"
+	"Objet.h"
+
+1736340097 source:c:\users\rstinus\downloads\s102\s102\src\dictionnaire.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+
+1736340097 source:c:\users\rstinus\downloads\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736342857 source:c:\users\rstinus\downloads\s102\s102\src\main.cpp
+	<vector>
+	"Dictionnaire.h"
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Objet.h"
+	"Niveau.h"
+
+1736340097 source:c:\users\rstinus\downloads\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736342802 source:c:\users\rstinus\downloads\s102\s102\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+	"Moteur.h"
+
+1736340097 source:c:\users\rstinus\downloads\s102\s102\src\tuile.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Tuile.h"
+	<vector>
+
+1736340775 source:c:\users\rstinus\downloads\s102\s102\src\objet.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Tuile.h"
+	"Objet.h"
+
+1736342802 source:c:\users\rstinus\downloads\s102\s102\src\niveau.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Objet.h"
+	"Niveau.h"
+
+1736366137 source:c:\users\rstinus\documents\s102\src\dictionnaire.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+
+1736340097 source:c:\users\rstinus\documents\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736340097 source:c:\users\rstinus\documents\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736366320 source:c:\users\rstinus\documents\s102\src\niveau.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Objet.h"
+	"Niveau.h"
+
+1736366152 source:c:\users\rstinus\documents\s102\src\objet.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Tuile.h"
+	"Objet.h"
+
+1736340097 source:c:\users\rstinus\documents\s102\src\tuile.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Tuile.h"
+	<vector>
+
+1736366863 source:c:\users\rstinus\documents\s102\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+	"Moteur.h"
+
+1736366541 source:c:\users\rstinus\documents\s102\src\main.cpp
+	<vector>
+	"Dictionnaire.h"
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Objet.h"
+	"Niveau.h"
+
+1736366137 source:c:\users\rstinus\documents\but\s102\src\dictionnaire.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+
+1736340097 source:c:\users\rstinus\documents\but\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736366541 source:c:\users\rstinus\documents\but\s102\src\main.cpp
+	<vector>
+	"Dictionnaire.h"
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Objet.h"
+	"Niveau.h"
+
+1736340097 source:c:\users\rstinus\documents\but\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736366320 source:c:\users\rstinus\documents\but\s102\src\niveau.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Objet.h"
+	"Niveau.h"
+
+1736366152 source:c:\users\rstinus\documents\but\s102\src\objet.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Tuile.h"
+	"Objet.h"
+
+1736366863 source:c:\users\rstinus\documents\but\s102\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+	"Moteur.h"
+
+1736451168 source:c:\users\rstinus\documents\but\s102\src\tuile.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Tuile.h"
+	<vector>
+
+1736459630 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\dictionnaire.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+
+1736340097 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736536425 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\main.cpp
+	<vector>
+	"Dictionnaire.h"
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Objet.h"
+	"Niveau.h"
+
+1736459265 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736461520 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\niveau.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Objet.h"
+	"Niveau.h"
+
+1736366152 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\objet.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Tuile.h"
+	"Objet.h"
+
+1736460614 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+	"Moteur.h"
+
+1736459678 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\tuile.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Tuile.h"
+	<vector>
+
+1736461879 source:c:\users\chris\desktop\documents maelan\cours but1\s1\s102 rems\src\maintest.cpp
+	<vector>
+	<iostream>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+	"Objet.h"
+
+1736456030 source:z:\tp\s102 jahier hassan grillot\src\dictionnaire.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+
+1736336498 source:z:\tp\s102 jahier hassan grillot\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736458280 source:z:\tp\s102 jahier hassan grillot\src\maintest.cpp
+	<vector>
+	<iostream>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+	"Niveau.h"
+	"Objet.h"
+
+1736455666 source:z:\tp\s102 jahier hassan grillot\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736457920 source:z:\tp\s102 jahier hassan grillot\src\niveau.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Objet.h"
+	"Niveau.h"
+
+1736362552 source:z:\tp\s102 jahier hassan grillot\src\objet.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Dictionnaire.h"
+	<vector>
+	<iostream>
+	"Tuile.h"
+	"Objet.h"
+
+1736457014 source:z:\tp\s102 jahier hassan grillot\src\personnage.cpp
+	"Image.h"
+	"Personnage.h"
+	<string>
+	"Moteur.h"
+
+1736456078 source:z:\tp\s102 jahier hassan grillot\src\tuile.cpp
+	"Image.h"
+	<string>
+	"Moteur.h"
+	"Tuile.h"
+	<vector>
+
+1736532826 source:z:\tp\s102 jahier hassan grillot\src\main.cpp
+	<vector>
+	"Dictionnaire.h"
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Objet.h"
+	"Niveau.h"
+
